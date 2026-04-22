@@ -6,7 +6,7 @@ toolchain go1.21.2
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.3
-	github.com/gorilla/schema v1.2.1
+	github.com/gorilla/schema v1.4.1
 	k8s.io/klog/v2 v2.120.1
 )
 
